@@ -32,7 +32,7 @@
 >  * **Computational Thinking Teacher** Secondary Level (2016 - Present)   
 >  @ [Excel Public Charter School]: [Kent, Washington, USA]  
 >  ★ Taught students the basics of spreadsheets, [Code.org], [Scratch], and web design using [Wix.com]  
-      
+>           
 >  * **English and Science Teacher** – Secondary Level (2014 - 2015)   
 >  @ [IES Porto Cristo: Porto Cristo]: [Mallorca, Spain]  
   
