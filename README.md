@@ -2,15 +2,15 @@
 ![pic]
   
   
->### **Contact Information**  
+### **Contact Information**  
 >+1.631.766.7026  
 >summers.math@gmail.com  
->    
+>.  
      
 ## **Profile**  
 >I am a dedicated, self-motivated professional with excellent leadership skills as well as innovative problem solving skills and an outgoing personality. I am more than passionate about everything I dive into and am extremely organized with great attention to detail. I consider myself to be a perfectionist, but at the same time, I possess a lot of patience and adaptability when working under pressure and working with others.  
->        
-    
+>.  
+  
 ## **Education**  
 >Master of Arts in Secondary Mathematics Education (2008) - [West Virginia University]  
 >Bachelor of Arts in Mathematics (2008) - [West Virginia University]  
@@ -35,31 +35,31 @@
 >           
 >  * **English and Science Teacher** – Secondary Level (2014 - 2015)   
 >  @ [IES Porto Cristo: Porto Cristo]: [Mallorca, Spain]  
-  
-  * **Math Teacher** – College Level (2014)  
-  @ [Cascadia Community College]: [Bothell, Washington, USA]  
-  ★ Responsible for the instruction of 125-minute classes of Adult Basic Education math course  
-  
-  * **Home-School Math Teacher** (2013 - 2014)  
-  @ Seattle, Washington, USA  
-  
-  * **Private Math Tutor** – Elementary to College (2006 - 2014)  
-  @ New York, Seattle, West Virginia, Virginia (USA)  
-  ★ Grades 3-9, Algebra, Geometry, Algebra 2, Trigonometry, and Calculus I & II  
-  
-  * **Homebound Teacher of Math and Science** (2011)  
-  @ [Winchester, Virginia, USA]  
-  ★ Responsible for the home instruction of mathematics and science for a particular student unable to attend public school  
- 
-  * **Math Teacher** – Grade 8 (2008 - 2011)  
-  @ [Frederick County Middle School]: [Winchester, Virginia, USA]  
-  ★ Coach of the FCMS Math Club. First place among county schools (2009)  
-  ★ Teacher of the Month Award (2011)  
-  
-  * **Math Teacher** – Grades 9 - 12 (2006 - 2008)  
-  @ [University High School]: [Morgantown, West Virginia, USA]  
-  ★ Internship: More than 1,000 hours of classroom experience  
-  ★ Conducted research to improve students’ logical and deductive reasoning skills for mathematical application  
+>  
+>  * **Math Teacher** – College Level (2014)  
+>  @ [Cascadia Community College]: [Bothell, Washington, USA]  
+>  ★ Responsible for the instruction of 125-minute classes of Adult Basic Education math course  
+>  
+>  * **Home-School Math Teacher** (2013 - 2014)  
+>  @ Seattle, Washington, USA  
+>  
+>  * **Private Math Tutor** – Elementary to College (2006 - 2014)  
+>  @ New York, Seattle, West Virginia, Virginia (USA)  
+>  ★ Grades 3-9, Algebra, Geometry, Algebra 2, Trigonometry, and Calculus I & II  
+>  
+>  * **Homebound Teacher of Math and Science** (2011)  
+>  @ [Winchester, Virginia, USA]  
+>  ★ Responsible for the home instruction of mathematics and science for a particular student unable to attend public school  
+> 
+>  * **Math Teacher** – Grade 8 (2008 - 2011)  
+>  @ [Frederick County Middle School]: [Winchester, Virginia, USA]  
+>  ★ Coach of the FCMS Math Club. First place among county schools (2009)  
+>  ★ Teacher of the Month Award (2011)  
+>  
+>  * **Math Teacher** – Grades 9 - 12 (2006 - 2008)  
+>  @ [University High School]: [Morgantown, West Virginia, USA]  
+>  ★ Internship: More than 1,000 hours of classroom experience  
+>  ★ Conducted research to improve students’ logical and deductive reasoning skills for mathematical application  
    
   
 [Hole Stories]: http://www.holestories.com
