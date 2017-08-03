@@ -5,12 +5,12 @@
 >### **Contact Information**  
 >+1.631.766.7026  
 >summers.math@gmail.com  
-  
-  
+    
+     
 ## **Profile**  
 >I am a dedicated, self-motivated professional with excellent leadership skills as well as innovative problem solving skills and an outgoing personality. I am more than passionate about everything I dive into and am extremely organized with great attention to detail. I consider myself to be a perfectionist, but at the same time, I possess a lot of patience and adaptability when working under pressure and working with others.  
-  
-  
+    
+    
 ## **Education**  
 >Master of Arts in Secondary Mathematics Education (2008) - [West Virginia University]  
 >Bachelor of Arts in Mathematics (2008) - [West Virginia University]  
