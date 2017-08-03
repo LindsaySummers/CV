@@ -26,36 +26,36 @@
 >      
 >  * **Computational Thinking Teacher** Secondary Level (2016 - Present)   
 >  @ [Excel Public Charter School]: [Kent, Washington, USA]  
->  ★ Taught students the basics of spreadsheets, [Code.org], [Scratch], and web design using [Wix.com]  
+>  ☆ Taught students the basics of spreadsheets, [Code.org], [Scratch], and web design using [Wix.com]  
 >           
 >  * **English and Science Teacher** – Secondary Level (2014 - 2015)   
 >  @ [IES Porto Cristo: Porto Cristo]: [Mallorca, Spain]  
->  ★ Taught Math, Science, and English, as an English immersion program in Spain
+>  ☆ Taught Math, Science, and English, as an English immersion program in Spain
 >  
 >  * **Math Teacher** – College Level (2014)  
 >  @ [Cascadia Community College]: [Bothell, Washington, USA]  
->  ★ Responsible for the instruction of 125-minute classes of Adult Basic Education math course  
+>  ☆ Responsible for the instruction of 125-minute classes of Adult Basic Education math course  
 >  
 >  * **Home-School Math Teacher** (2013 - 2014)  
 >  @ Seattle, Washington, USA  
 >  
 >  * **Private Math Tutor** – Elementary to College (2006 - 2014)  
 >  @ New York, Seattle, West Virginia, Virginia (USA)  
->  ★ Grades 3-9, Algebra, Geometry, Algebra 2, Trigonometry, and Calculus I & II  
+>  ☆ Grades 3-9, Algebra, Geometry, Algebra 2, Trigonometry, and Calculus I & II  
 >  
 >  * **Homebound Teacher of Math and Science** (2011)  
 >  @ [Winchester, Virginia, USA]  
->  ★ Responsible for the home instruction of mathematics and science for a particular student unable to attend public school  
+>  ☆ Responsible for the home instruction of mathematics and science for a particular student unable to attend public school  
 > 
 >  * **Math Teacher** – Grade 8 (2008 - 2011)  
 >  @ [Frederick County Middle School]: [Winchester, Virginia, USA]  
->  ★ Coach of the FCMS Math Club. First place among county schools (2009)  
->  ★ Teacher of the Month Award (2011)  
+>  ☆ Coach of the FCMS Math Club. First place among county schools (2009)  
+>  ☆ Teacher of the Month Award (2011)  
 >  
 >  * **Math Teacher** – Grades 9 - 12 (2006 - 2008)  
 >  @ [University High School]: [Morgantown, West Virginia, USA]  
->  ★ Internship: More than 1,000 hours of classroom experience  
->  ★ Conducted research to improve students’ logical and deductive reasoning skills for mathematical application  
+>  ☆ Internship: More than 1,000 hours of classroom experience  
+>  ☆ Conducted research to improve students’ logical and deductive reasoning skills for mathematical application  
    
   
 [Hole Stories]: http://www.holestories.com
