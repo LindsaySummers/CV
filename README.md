@@ -2,7 +2,7 @@
 ![pic]
   
   
-## **Contact Information**  
+>### **Contact Information**  
 >+1.631.766.7026  
 >summers.math@gmail.com  
   
