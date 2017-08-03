@@ -23,9 +23,9 @@ I am a dedicated, self-motivated professional with excellent leadership skills a
 * **Teaching Experience:**  
       ★ **Classes Taught:** Computational Thinking, English Conversation, Natural Science 1, Natural Science 2, Math Workshop, Math 8, Applied Math 1, Algebra 1, Honors Algebra 1, Geometry, Honors Geometry, Conceptual Mathematics, Honors Algebra 2, Pre-Calculus, College Algebra, College Math Adult Education  
       
-* **Computational Thinking Teacher** Secondary Level (2016 - Present)   
-@ [Excel Public Charter School]: [Kent, Washington, USA]  
-★ Taught students the basics of spreadsheets, [Code.org], [Scratch], and web design using [Wix.com]  
+  * **Computational Thinking Teacher** Secondary Level (2016 - Present)   
+  @ [Excel Public Charter School]: [Kent, Washington, USA]  
+  ★ Taught students the basics of spreadsheets, [Code.org], [Scratch], and web design using [Wix.com]  
       
       **English and Science Teacher** – Secondary Level (2014 - 2015)   
       @ [IES Porto Cristo: Porto Cristo]: [Mallorca, Spain]  
