@@ -17,7 +17,7 @@
 ###### &nbsp;  
   
 ## **Technology**  
->Extremely Proficient with WordPress, Microsof Excel as well as the rest of MS Office Suite, and Google Applications (such as Docs, Sheets, and Slides).  Proficient with Wix.com.  
+>Extremely Proficient with WordPress, Microsoft Excel as well as the rest of MS Office Suite, and Google Applications (such as Docs, Sheets, and Slides).  Proficient with Wix.com.  
 ###### &nbsp;  
   
 ## **Web Design**  
