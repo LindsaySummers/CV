@@ -69,7 +69,7 @@
 [Wix.com]: http://www.wix.com
 [Scratch]: https://scratch.mit.edu/
 
-[pic]:  http://www.holestories.com/wp-content/uploads/2017/02/Life-Line-Picture.png
+[pic]:  http://www.holestories.com/wp-content/uploads/2017/08/Lindsays-Work-Map.png
 
 [West Virginia University]: http://www.wvu.edu
 
