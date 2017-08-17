@@ -62,8 +62,8 @@
 >  ☆ Internship: More than 1,000 hours of classroom experience  
 >  ☆ Conducted research to improve students’ logical and deductive reasoning skills for mathematical application  
 
-![gifslider]
-   
+![](http://www.holestories.com/wp-content/uploads/2017/08/Me-Everywhere-GIF.gif)
+   
   
 [Hole Stories]: http://www.holestories.com
 [Hole Studies]: http://www.holestudies.com
