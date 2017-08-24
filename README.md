@@ -3,7 +3,7 @@
   
   
 ## **Pronouns**  
->She/Her     
+>She / Her     
 ###### &nbsp;  
   
 ## **Contact Information**  
