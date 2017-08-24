@@ -2,6 +2,10 @@
 ![mappicture]
   
   
+## **Pronouns**  
+>She/Her     
+###### &nbsp;  
+  
 ## **Contact Information**  
 >+1.631.766.7026  
 >summers.math@gmail.com   
