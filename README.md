@@ -1,34 +1,29 @@
 # **L I N D S A Y &nbsp; S U M M E R S**  
 ![mappicture]
   
-  
+    
 ## **Pronouns**  
->She / Her     
-###### &nbsp;  
+>She / Her    
   
 ## **Contact Information**  
 >+1.631.766.7026  
->summers.math@gmail.com   
-###### &nbsp;  
+>summers.math@gmail.com    
   
 ## **Profile**  
->I am a dedicated, self-motivated professional with excellent leadership skills as well as innovative problem solving skills and an outgoing personality. I am more than passionate about everything I dive into and am extremely organized with great attention to detail. I consider myself to be a perfectionist, but at the same time, I possess a lot of patience and adaptability when working under pressure and working with others.  
-###### &nbsp;  
+>I am a dedicated, self-motivated professional with excellent leadership skills as well as innovative problem solving skills and an outgoing personality. I am more than passionate about everything I dive into and am extremely organized with great attention to detail. I consider myself to be a perfectionist, but at the same time, I possess a lot of patience and adaptability when working under pressure and working with others.
+>![everywhere]
   
 ## **Education**  
 >Master of Arts in Secondary Mathematics Education (2008) - [West Virginia University]  
->Bachelor of Arts in Mathematics (2008) - [West Virginia University]  
-###### &nbsp;  
+>Bachelor of Arts in Mathematics (2008) - [West Virginia University]    
   
 ## **Technology**  
->Extremely Proficient with WordPress, Microsoft Excel as well as the rest of MS Office Suite, and Google Applications (such as Docs, Sheets, and Slides).  Proficient with Wix.com.  
-###### &nbsp;  
+>Extremely Proficient with WordPress, Microsoft Excel as well as the rest of MS Office Suite, and Google Applications (such as Docs, Sheets, and Slides).  Proficient with Wix.com.   
   
 ## **Web Design**  
 >Creator, author, and "web-designer" of [Hole Stories] and [Hole Studies] (2011 - Present)  
 >★ Self-created websites in search of great education internationally  
->★ Traveled around the world in order to document overall differences to U.S. education  
-###### &nbsp;  
+>★ Traveled around the world in order to document overall differences to U.S. education    
     
 ## **Teaching Experience**  
 >★ **Classes Taught:** Computational Thinking, English Conversation, Natural Science 1, Natural Science 2, Math Workshop, Math 8, Applied Math 1, Algebra 1, Honors Algebra 1, Geometry, Honors Geometry, Conceptual Mathematics, Honors Algebra 2, Pre-Calculus, College Algebra, College Math Adult Education  
@@ -66,7 +61,6 @@
 >  ☆ Internship: More than 1,000 hours of classroom experience  
 >  ☆ Conducted research to improve students’ logical and deductive reasoning skills for mathematical application  
 
-![everywhere]
    
   
 [Hole Stories]: http://www.holestories.com
