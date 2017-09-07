@@ -76,7 +76,8 @@
 [Scratch]: https://scratch.mit.edu/
 
 [mappicture]: http://www.holestories.com/wp-content/uploads/2017/08/Lindsays-Work-Map-2.png
-[everywhere]: http://www.holestories.com/wp-content/uploads/2017/08/Me-Everywhere-GIF.gif
+[everywhere]: https://github.com/LindsaySummers/CV/blob/master/Me-Everywhere.gif
+
 
 [West Virginia University]: http://www.wvu.edu
 
