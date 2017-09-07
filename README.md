@@ -66,7 +66,7 @@
 >  ☆ Internship: More than 1,000 hours of classroom experience  
 >  ☆ Conducted research to improve students’ logical and deductive reasoning skills for mathematical application  
 
-![slider]
+![everywhere]
    
   
 [Hole Stories]: http://www.holestories.com
@@ -76,7 +76,7 @@
 [Scratch]: https://scratch.mit.edu/
 
 [mappicture]: http://www.holestories.com/wp-content/uploads/2017/08/Lindsays-Work-Map-2.png
-[slider]: http://www.holestories.com/wp-content/uploads/2017/08/Me-Everywhere-GIF.gif
+[everywhere]: http://www.holestories.com/wp-content/uploads/2017/08/Me-Everywhere-GIF.gif
 
 [West Virginia University]: http://www.wvu.edu
 
